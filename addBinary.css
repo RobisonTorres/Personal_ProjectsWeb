@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lavender;
+}
+
+h3 {
+    color: navy;
+}
+
+p {
+    color: gray;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: darkblue;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+input[type="button"] {
+    padding: 8px 20px;
+    background-color: navy;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: rgb(58, 139, 0);
+}
+
+#result {
+    font-weight: bold;
+}

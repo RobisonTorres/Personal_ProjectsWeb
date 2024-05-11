@@ -1,0 +1,46 @@
+body {
+    margin-top: 50px;
+    background-color: rgb(3, 3, 48);
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;  
+}
+
+#p1 {
+    margin: 0px 20px 10px 0px;
+    text-align: center;
+    font-size: large;
+}
+
+.main {
+    background-color: #212121;
+    margin: auto;
+    max-width: 350px;
+    max-height: 350px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+#text-input {
+    width: 65%;
+    margin: 10px 0px;
+}
+
+#check-btn {
+    background-color: purple;
+    border-radius: 20px;
+    color: white;
+    border: 0px;
+    width: 75px;
+    padding: 10px;
+}
+
+#result {
+    margin: 5px;
+    text-align: center;
+    font-size: 25px;
+}
